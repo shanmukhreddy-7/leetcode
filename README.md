@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shanmukhreddy-7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/shanmukhreddy-7/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shanmukhreddy-7/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shanmukhreddy-7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/shanmukhreddy-7/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shanmukhreddy-7/leetcode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
