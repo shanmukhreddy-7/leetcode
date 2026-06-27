@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
