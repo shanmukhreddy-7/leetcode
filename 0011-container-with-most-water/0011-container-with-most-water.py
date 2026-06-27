@@ -5,8 +5,7 @@ class Solution(object):
         ans = 0
 
         while left < right:
-            area = min(height[left], height[right]) * (right - left)
-            ans = max(ans, area)
+            ans = max(ans, min(height[left], height[right]) * (right - left))
 
             if height[left] < height[right]:
                 left += 1
