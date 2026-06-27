@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shanmukhreddy-7/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shanmukhreddy-7/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0179-largest-number) |
 ## Trie
 |  |
@@ -132,8 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shanmukhreddy-7/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/shanmukhreddy-7/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shanmukhreddy-7/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
