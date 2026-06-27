@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shanmukhreddy-7/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0179-largest-number) |
 ## Trie
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shanmukhreddy-7/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0179-largest-number) |
 ## Heap (Priority Queue)
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
