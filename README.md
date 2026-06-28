@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shanmukhreddy-7/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/shanmukhreddy-7/leetcode/tree/master/0223-rectangle-area) |
 ## Simulation
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shanmukhreddy-7/leetcode/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/shanmukhreddy-7/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
