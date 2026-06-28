@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/shanmukhreddy-7/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shanmukhreddy-7/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shanmukhreddy-7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shanmukhreddy-7/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
