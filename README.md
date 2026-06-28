@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shanmukhreddy-7/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/shanmukhreddy-7/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Simulation
 |  |
 | ------- |
