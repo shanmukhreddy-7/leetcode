@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shanmukhreddy-7/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shanmukhreddy-7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shanmukhreddy-7/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
