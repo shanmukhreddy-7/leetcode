@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shanmukhreddy-7/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shanmukhreddy-7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shanmukhreddy-7/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/shanmukhreddy-7/leetcode/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shanmukhreddy-7/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shanmukhreddy-7/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
