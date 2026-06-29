@@ -1,0 +1,20 @@
+class Solution(object):
+    def preorderTraversal(self, root):
+        res = []
+        cur = root
+        while cur:
+            if not cur.left:
+                res.append(cur.val)
+                cur = cur.right
+            else:
+                pre = cur.left
+                while pre.right and pre.right != cur:
+                    pre = pre.right
+                if not pre.right:
+                    res.append(cur.val)
+                    pre.right = cur
+                    cur = cur.left
+                else:
+                    pre.right = None
+                    cur = cur.right
+        return res
