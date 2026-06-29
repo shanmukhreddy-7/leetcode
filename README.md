@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shanmukhreddy-7/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shanmukhreddy-7/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shanmukhreddy-7/leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shanmukhreddy-7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shanmukhreddy-7/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/shanmukhreddy-7/leetcode/tree/master/0164-maximum-gap) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shanmukhreddy-7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shanmukhreddy-7/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shanmukhreddy-7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shanmukhreddy-7/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shanmukhreddy-7/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
