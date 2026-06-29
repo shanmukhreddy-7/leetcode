@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/shanmukhreddy-7/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shanmukhreddy-7/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/shanmukhreddy-7/leetcode/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0179-largest-number) |
 ## Trie
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shanmukhreddy-7/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shanmukhreddy-7/leetcode/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
