@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shanmukhreddy-7/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shanmukhreddy-7/leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shanmukhreddy-7/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shanmukhreddy-7/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/shanmukhreddy-7/leetcode/tree/master/0047-permutations-ii) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shanmukhreddy-7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shanmukhreddy-7/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
