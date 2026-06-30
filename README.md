@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shanmukhreddy-7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shanmukhreddy-7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shanmukhreddy-7/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shanmukhreddy-7/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shanmukhreddy-7/leetcode/tree/master/0044-wildcard-matching) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shanmukhreddy-7/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shanmukhreddy-7/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shanmukhreddy-7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shanmukhreddy-7/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shanmukhreddy-7/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shanmukhreddy-7/leetcode/tree/master/0202-happy-number) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shanmukhreddy-7/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shanmukhreddy-7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
